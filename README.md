@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ha Ngoc Dinh</h1>
-<h3 align="center">A fucking suck Developer</h3>
+<h3 align="center">A lazy as hell Developer</h3>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hangocdinhnew&show_icons=true&locale=en" alt="hangocdinhnew" /></p>
 
