@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ha Ngoc Dinh</h1>
 <h3 align="center">A lazy as hell Developer</h3>
 
+<img src="https://raw.githubusercontent.com/hangocdinhnew/hangocdinhnew/output/github-contribution-grid-snake.svg" />
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hangocdinhnew&show_icons=true&locale=en" alt="hangocdinhnew" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hangocdinhnew&label=Profile%20views&color=0e75b6&style=flat" alt="hangocdinhnew" /> </p>
