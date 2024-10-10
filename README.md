@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ha Ngoc Dinh</h1>
-<h3 align="center">A lazy as hell Developer</h3>
-
-<img src="https://raw.githubusercontent.com/hangocdinhnew/hangocdinhnew/output/github-contribution-grid-snake.svg" />
+<h1 align="center">Hi 👋, I'm hangocdinhnew</h1>
+<h3 align="center">Your Average Lazy Developer</h3>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hangocdinhnew&show_icons=true&locale=en" alt="hangocdinhnew" /></p>
 
@@ -13,11 +11,7 @@
 
 - 🔭 I’m currently working on [MyProject](https://github.com/HangocdinhNewOrganization/MyProject)
 
-- 🌱 I’m currently learning **OpenGL and C++**
-
-- 💬 Ask me about **C++, OpenGL**
-
-- 📫 How to reach me **dinhndrwnew@gmail.com**
+- 🌱 I’m currently learning **Making a kernel**
 
 - ⚡ Fun fact **I sucks at coding**
 
