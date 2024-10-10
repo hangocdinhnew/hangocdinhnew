@@ -9,8 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/dinhndrwnew" target="blank"><img src="https://img.shields.io/twitter/follow/dinhndrwnew?logo=twitter&style=for-the-badge" alt="dinhndrwnew" /></a> </p>
 
-- 🔭 I’m currently working on [MyProject](https://github.com/HangocdinhNewOrganization/MyProject)
-
 - 🌱 I’m currently learning **Making a kernel**
 
 - ⚡ Fun fact **I sucks at coding**
