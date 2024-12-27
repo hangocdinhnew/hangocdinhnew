@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Making a kernel**
 
-- ⚡ Fun fact **I sucks at coding**
+- ⚡ Fun fact **I suck at coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
